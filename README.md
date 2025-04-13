@@ -12,3 +12,4 @@ Simply copy the file containing the model `.py` file and it should work out of t
 - [ ] bert-base-uncased
 - [ ] VAE
 - [ ] Stable Diffusion
+- [ ] flux.1-dev
